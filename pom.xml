@@ -5,6 +5,7 @@
   <version>2.2-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
+    <!-- Demo on Github Webhooks-->
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
